@@ -13,6 +13,7 @@
 
 @property (nonatomic, strong) CBCentralManager *central;
 @property (nonatomic, strong) NSMutableData *data;
+@property (nonatomic, strong) CBPeripheral *peripheral;
 
 @end
 
