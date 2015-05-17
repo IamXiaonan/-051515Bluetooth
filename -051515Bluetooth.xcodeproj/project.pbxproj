@@ -14,6 +14,7 @@
 		8B9930751B06B836004DD7C3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B9930741B06B836004DD7C3 /* Images.xcassets */; };
 		8B9930781B06B836004DD7C3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B9930761B06B836004DD7C3 /* LaunchScreen.xib */; };
 		8B9930841B06B836004DD7C3 /* _051515BluetoothTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9930831B06B836004DD7C3 /* _051515BluetoothTests.m */; };
+		8B99308E1B07CCD8004DD7C3 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B99308D1B07CCD8004DD7C3 /* CoreBluetooth.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		8B99307D1B06B836004DD7C3 /* -051515BluetoothTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "-051515BluetoothTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B9930821B06B836004DD7C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B9930831B06B836004DD7C3 /* _051515BluetoothTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _051515BluetoothTests.m; sourceTree = "<group>"; };
+		8B99308D1B07CCD8004DD7C3 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +49,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B99308E1B07CCD8004DD7C3 /* CoreBluetooth.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +66,7 @@
 		8B99305B1B06B836004DD7C3 = {
 			isa = PBXGroup;
 			children = (
+				8B99308D1B07CCD8004DD7C3 /* CoreBluetooth.framework */,
 				8B9930661B06B836004DD7C3 /* -051515Bluetooth */,
 				8B9930801B06B836004DD7C3 /* -051515BluetoothTests */,
 				8B9930651B06B836004DD7C3 /* Products */,
