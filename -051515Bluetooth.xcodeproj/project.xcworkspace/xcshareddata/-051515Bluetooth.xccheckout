@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4891A963-098D-4915-BD7E-D7C18A029A68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1F675DE2DA8C88A3FA49C8B51EC13C653C61410F</key>
+		<string>https://github.com/MissWan/-051515Bluetooth.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>-051515Bluetooth.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1F675DE2DA8C88A3FA49C8B51EC13C653C61410F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MissWan/-051515Bluetooth.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1F675DE2DA8C88A3FA49C8B51EC13C653C61410F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1F675DE2DA8C88A3FA49C8B51EC13C653C61410F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>-051515Bluetooth</string>
+		</dict>
+	</array>
+</dict>
+</plist>
